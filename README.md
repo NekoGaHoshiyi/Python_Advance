@@ -1,5 +1,5 @@
 # Python_Advance
-It's a summary of  basical uses of  some common algorithm and coding skills which may help u with effective Python coding.  
+It's a summary of  basical uses of  some common algorithms and coding skills which may help u with effective Python coding.  
 I must say not all lines of codes were written by myself, some of them I did gather from tech blogs or etc.   
 If u wanna craw huanqiu news, usePool.py is a muitiprocess way to start the mission which can craw nearly full categorys, and the craw func is in crawnews.py.  
 
